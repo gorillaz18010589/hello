@@ -1,0 +1,49 @@
+*   [33m0b7f497[m[33m ([m[1;36mHEAD[m[33m)[m Merge remote-tracking branch 'origin/master' into HEAD
+[31m|[m[32m\[m  
+[31m|[m *   [33m85515be[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Merge branch 'master' of https://github.com/gorillaz18010589/hello
+[31m|[m [33m|[m[34m\[m  
+* [33m|[m [34m|[m [33m799093c[m amend v7.0mix
+* [33m|[m [34m|[m   [33m4d281a4[m Merge branch 'master' of https://github.com/gorillaz18010589/hello
+[33m|[m[34m\[m [33m\[m [34m\[m  
+[33m|[m [34m|[m[33m/[m [34m/[m  
+[33m|[m[33m/[m[34m|[m [34m/[m   
+[33m|[m [34m|[m[34m/[m    
+[33m|[m * [33mf946992[m Create v7.0.txt
+[33m|[m * [33m4ea4c38[m Create v6.0
+* [36m|[m [33m9cc7eff[m  v6.0
+[36m|[m[36m/[m  
+*   [33md417f39[m Merge branch 'newone'
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33mb9128c8[m v4.0
+* [1;32m|[m [33mbefbaeb[m v5.0
+[1;32m|[m[1;32m/[m  
+* [33m4415193[m v3.0
+* [33m9eea95d[m v2.0
+* [33m3a66729[m v1.0
+* [33m181d987[m Delete testing1.txt
+* [33m5f6b59a[m Create pull
+*   [33m038fa4a[m Merge branch 'testing'
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33ma607bea[m testing
+* [1;34m|[m [33m9efec3f[m del
+* [1;34m|[m [33m7e1bb98[m del
+* [1;34m|[m [33m4b4200d[m helo world
+* [1;34m|[m [33me0f13e9[m del
+* [1;34m|[m [33m294d005[m test1
+* [1;34m|[m [33m2e65502[m testing
+* [1;34m|[m [33maaf79e8[m aaa
+[1;34m|[m [1;34m|[m * [33m2984e91[m[33m ([m[1;31morigin/testing[m[33m)[m aaaa
+[1;34m|[m [1;34m|[m * [33mf57ee81[m Delete push.txt
+[1;34m|[m [1;34m|[m * [33m70d5c9a[m Delete testing1.txt
+[1;34m|[m [1;34m|[m * [33mcd2bb83[m push
+[1;34m|[m [1;34m|[m * [33m21187ca[m testing
+[1;34m|[m [1;34m|[m[1;34m/[m  
+[1;34m|[m * [33m6404b40[m aaa
+[1;34m|[m[1;34m/[m  
+* [33m312a092[m Create file3
+*   [33mefc4062[m Merge branch 'master' of https://github.com/gorillaz18010589/hello
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m4746f0b[m Create file1
+* [31m|[m [33mec532ab[m hello
+[31m|[m[31m/[m  
+* [33m7befa35[m Initial commit
