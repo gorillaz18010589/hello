@@ -1,0 +1,16 @@
+aaa
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Mar 22 11:33:20 2019 +0800
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   ../ok.txt
+#
+# Untracked files:
+#	./
+#
